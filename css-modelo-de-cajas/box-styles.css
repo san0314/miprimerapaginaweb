@@ -1,0 +1,22 @@
+h1{
+    background-color: #b11616;
+    padding: 50px;
+    margin: 50px;
+    border: 5px solid black;
+}
+p,
+div {
+    background-color: #b11616;
+    padding: 10px 5px 15px 3px;
+    margin: 50px; 
+    border: 10px solid black;
+}
+
+em,
+strong,
+span {
+    background-color: blueviolet;
+    padding: 10px ;
+    margin: 20px;
+    border: 10px;
+}

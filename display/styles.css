@@ -1,0 +1,15 @@
+div{
+    background-color: aqua;
+   
+    display: inline;
+}
+p{
+    background-color: brown;
+  
+    display: inline-block;
+}
+a {
+    background-color: blueviolet;
+   
+    display: block;
+} 
